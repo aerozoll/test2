@@ -3,9 +3,5 @@
  * Created by PhpStorm.
  * User: Admin
  * Date: 25.06.2018
- * Time: 20:54
+ * Time: 20:56
  */
-class Test extends AMQPConnectionException{
-
-
-}
