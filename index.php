@@ -6,7 +6,8 @@
  * Time: 20:54
  */
 class Test extends AMQPConnectionException{
-    public function Test(){
+    public function testFunction()
+    {
         return "4566";
     }
 
