@@ -8,7 +8,7 @@
 class Test extends AMQPConnectionException{
     public function testFunction()
     {
-        return "4566";
+        return "456666";
     }
 
 
